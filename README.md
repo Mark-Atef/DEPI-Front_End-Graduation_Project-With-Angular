@@ -11,7 +11,6 @@ Our project was selected as **one of the top submissions** out of 115+ teams —
 This website showcases a modern, user-centric design with smooth navigation, interactivity, and a mobile-first responsive layout. Built entirely with Angular and enhanced with Bootstrap, SCSS, and jQuery/AJAX.
 
 > 👨‍💻 Team Size: 6 members  
-> 👤 My Role: Developed the **Contact Section**, **Navigation Bar**, and contributed to the design and logic of other components.
 
 ---
 
@@ -80,6 +79,7 @@ Feel free to reach out:
 ---
 
 © 2025 Mark Atef | All rights reserved.
+
 
 
 
