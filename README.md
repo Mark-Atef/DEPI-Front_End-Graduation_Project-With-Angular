@@ -40,13 +40,6 @@ This website showcases a modern, user-centric design with smooth navigation, int
 
 ---
 
-## 📸 Live Demo
-
-🚧 **Live Link:** *[Project Hosting Pending]*  
-> You can run it locally using the instructions in the GitHub repository.
-
----
-
 ## 📂 Repository
 
 🔗 [GitHub Repo – DEPI Final Project](https://github.com/DEPI-FrontEnd-team/DEPI-Final-Project.git)
@@ -87,3 +80,4 @@ Feel free to reach out:
 ---
 
 © 2025 Mark Atef | All rights reserved.
+
