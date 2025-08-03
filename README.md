@@ -1,4 +1,4 @@
-# 🧾 Portfolio Website – DEPI Final Project
+ # 🧾 Portfolio Website – DEPI Final Project
 
 This is a responsive **portfolio website** built using **Angular** as part of the *"Software Development – Front-End Developer"* track under the [**Digital Egypt Pioneers Initiative (DEPI)**](https://depi.gov.eg/), led by the **Ministry of Communications and Information Technology (MCIT), Egypt**, and delivered in collaboration with **YAT Learning Centers**.
 
@@ -74,12 +74,13 @@ For enabling this learning journey and giving us the opportunity to build and sh
 Feel free to reach out:
 
 - 📧 Email: yacoub.markatef@gmail.com  
-- 💼 LinkedIn: [www.linkedin.com/in/mark-yacoub-005711255](https://www.linkedin.com/in/mark-yacoub-005711255)  
+- 💼 LinkedIn: [www.linkedin.com/in/mark-yacoub-005711255] (https://www.linkedin.com/in/mark-yacoub-005711255)  
 - 💻 GitHub: [github.com/Mark-Atef](https://github.com/Mark-Atef)
 
 ---
 
 © 2025 Mark Atef | All rights reserved.
+
 
 
 
